@@ -28,11 +28,11 @@ Este projeto foi uma etapa fundamental de engenharia e preparação de dados, po
 
 ## ⚙️ Pré-requisitos
 Para compilar e executar este projeto, você precisará ter instalado em sua máquina:
-- Um compilador C, como o [GCC (GNU Compiler Collection)](https://gcc.gnu.org/).
+- Um compilador C, como o GCC (GNU Compiler Collection): (https://gcc.gnu.org/).
 
 ## 🚀 Como rodar a aplicação
 
 No terminal, clone o projeto e acesse a pasta:
 ```bash
-$ git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
-$ cd NOME_DO_REPOSITORIO
+$ git clone "https://github.com/rodrigodinz/bucketsort.git"
+$ cd nome_do_reposito que você quiser
